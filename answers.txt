@@ -4,3 +4,7 @@ Answer: It is very good with version control, meaning there is a lot of flexibil
 sets of files/code being implemented together with room for error and going back to previous repo 
 versions when needed. Additionally, with group work it is very useful for organization and aditional 
 version control to sync different work together without major issues.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to the healthcare field, for example in analyzing data to predict disease spread/outbreak.

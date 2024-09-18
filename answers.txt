@@ -1,10 +1,15 @@
 Q1: Why might be consider using git?
 
-Answer: It is very good with version control, meaning there is a lot of flexibility with different 
-sets of files/code being implemented together with room for error and going back to previous repo 
-versions when needed. Additionally, with group work it is very useful for organization and aditional 
-version control to sync different work together without major issues.
+Answer: It is very good with version control, meaning there is a lot of flexibility with different sets of files/code being 
+implemented together with room for error and going back to previous repo versions when needed. Additionally, with group work it 
+is very useful for organization and aditional version control to sync different work together without major issues.
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be applied to the healthcare field, for example in analyzing data to predict disease spread/outbreak.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging takes the changes of the branch b and applies them to branch a, whereas rebasing takes all of the changes of 
+branch a and attaches them to the end of branch b. In this case, branch a is the branch being changed and branch b is the one 
+with the changes branch a needs.
